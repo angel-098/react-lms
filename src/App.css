@@ -1,0 +1,39 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px;
+  margin: 5px 0;
+  cursor: pointer;
+  border: 1px solid #ccc;
+}
+
+li.active {
+  background-color: #e0f2ff;
+  font-weight: bold;
+}
+
+.details {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px solid #aaa;
+}
+
+button {
+  padding: 8px 12px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.done {
+  color: green;
+  font-weight: bold;
+}
