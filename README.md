@@ -3,10 +3,18 @@
 This is a simple React-based Learning Management System (LMS) application.  
 Users can view course details, select lessons, and mark lessons as completed.
 
-## Screenshot
-![Course List](screenshot/course-list.png)
-![Lesson Details](screenshot/lesson-details.png)
-![Mark Lesson Completed](screenshot/lesson-completed.png)
+## Screenshots
+
+### Lesson Details
+![Intro](screenshot/Lesson%20Details/intro.jpeg)
+![Basic](screenshot/Lesson%20Details/basic.jpeg)
+![Advance](screenshot/Lesson%20Details/advance.jpeg)
+![Summary](screenshot/Lesson%20Details/summary.jpeg)
+
+### Mark Lesson Completed
+![Completed](screenshot/Mark%20Lesson%20Completed/mc.jpeg)
+![Completed 2](screenshot/Mark%20Lesson%20Completed/mc1.jpeg)
+
 
 ## Features
 - Display course title, description, and total duration
