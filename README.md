@@ -5,6 +5,9 @@ Users can view course details, select lessons, and mark lessons as completed.
 
 ## Screenshots
 
+### Course List
+![Course List](screenshot/Course%20List/C-list.jpeg)
+
 ### Lesson Details
 ![Intro](screenshot/Lesson%20Details/intro.jpeg)
 ![Basic](screenshot/Lesson%20Details/basic.jpeg)
